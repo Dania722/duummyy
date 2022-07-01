@@ -1,0 +1,18 @@
+.App{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+input , button{
+width: 200px;
+height: 30px;
+font-size: 20px;
+margin: 5px;
+}
+
+.food{
+  width:500px;
+  height: 250px;
+  border: 2px solid black;
+  margin:10px;
+}
